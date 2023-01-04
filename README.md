@@ -6,7 +6,7 @@ Not good at English.
 
 If you got any bug in my code,
 
-Please leave me issues!
+Please leave me issues.
 
 Thanks very much.
 
