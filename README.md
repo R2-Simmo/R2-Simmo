@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-<!--
-**R2-Simmo/R2-Simmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+R2-Simmo, A developer from China, alias as RycXEpd(destroyed account).
 
-Here are some ideas to get you started:
+Not good at English.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you got any bug in my code,
+
+Please leave me issues!
+
+Thanks very much.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2-Simmo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R2-Simmo&exclude_repo=R2-Simmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
